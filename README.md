@@ -1,1 +1,1 @@
-# NextJS Full Stack Project
+# TryeScript Full Stack Project
