@@ -1,1 +1,1 @@
-# TryeScript Full Stack Project
+# Type Script Full Stack Project
