@@ -1,0 +1,1 @@
+# NextJS Full Stack Project
